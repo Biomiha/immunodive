@@ -1,0 +1,79 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "About this site"                                # Your name
+  description: "Immunology blog"   # A brief slogan (optional)
+  image: img/Miha_lymphocyte.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    # logo: /img/explosion.avif
+    
+    # your sub-pages
+    left:
+      - text: "Papers"
+        href: papers/index.qmd
+      - text: "Archive"
+        href: archive/index.qmd
+      - text: "Glossary of terms"
+        href: glossary/index.qmd
+      - text: "About me"
+        href: me/index.qmd
+    
+    # your social media handles
+    # right:
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com/biomiha
+    # - icon: mastodon
+    #   text: Mastodon
+    #   href: https://mastodonapp.uk/@biomiha
+    # - icon: mortarboard-fill
+    #   text: Google Scholar
+    #   href: https://scholar.google.com/citations?user=uI7Cc8kAAAAJ&hl=en
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/miha-kosmac-28669934/
+    # - icon: envelope
+    #   text: Email
+    #   href: "mailto:biomiha@gmail.com" 
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2023 Miha Kosmac CC BY-SA 4.0</span>
+    # right: |
+    #   <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">Website template by Marvin Schmitt</a></span>
+    # 
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

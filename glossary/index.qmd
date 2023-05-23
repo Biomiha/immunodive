@@ -1,0 +1,5 @@
+---
+title: Glossary of terms
+---
+
+-   Skilled in the art: The term "skilled in the art" is commonly used in patents and intellectual property. It refers to someone with expertise or practical experience in a particular field or technology. This person is assumed to have the knowledge and ability typical of professionals in that area. A "skilled person" is important for patents because a patent needs to be novel or different enough from what is known to a skilled person. A patent also must describe things in enough detail (called enablement) to allow a skilled person to reproduce the findings.

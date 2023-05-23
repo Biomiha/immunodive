@@ -1,0 +1,50 @@
+---
+about:
+  template: jolla
+  id: about-block
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/biomiha
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodonapp.uk/@biomiha
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=uI7Cc8kAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/miha-kosmac-28669934/
+    - icon: envelope
+      text: Email
+      href: "mailto:biomiha@gmail.com"  
+---
+
+::: {#me}
+![](img/MK_img.png){fig-alt="Miha Kosmac personal photo." style="float:left;" width="250"}
+
+My name is Miha Kosmac. Since my university days I have been fascinated by immunology, an enthusiasm that I have since turned into a career.
+
+This website was set up for me to explore interesting papers from my field in greater detail and share those thoughts with likeminded readers. I provide a brief explanation behind the thinking process below. It goes without saying, all content and opinions on this website are my own unless specifically stated otherwise.
+:::
+
+::: {#about-block}
+:::
+
+ 
+
+ 
+
+# Welcome to my immunology deep dive!
+
+The motivation behind launching this website is a blend of self-interest and altruism. On the one hand, taking some time to examine the contents of an interesting paper helps me gain knowledge and learning new things is fun. On the other hand, in practice, most of us read papers all the time without really sharing our thoughts beyond the pages of a notebook or a reference manager tool. Putting my thoughts on a website takes a little extra effort but could potentially help a wider audience learn from the paper.
+
+That being said, the authors themselves or other media outlets are becoming increasingly aware of the power of social media and it is not unusual these days to see an author's tweetorial or other similar summary on a particular paper (a really nice recent example [here](https://twitter.com/kischober/status/1655952770699259906 "TCR avidity tweetorial")) that helps clarify and promote a paper. Not wanting to plagiarise others' work what value can I add to reviewing someone else's paper, not being its author? Well, one thing we have all noticed is that due to papers in top tier journals these days being absolutely packed with data and journals still imposing word limits on papers, the section that usually gets the cull is the Materials and Methods section. So much so that it usually takes someone [skilled in the art](glossary/index.qmd) (a phrase commonly used in Intellectual Property) to even make sense of it. One of my main aims will be to explain in plain terms not only what was done but also why and how because I often feel that those are things I personally need most when reading a paper. Immunology being an extremely broad and complicated area I will obviously not be able to do this well for every topic but I will try to keep it wide-ranging to also learn more myself.
+
+Finally, I invite anyone reading this blog to drop me an email with ideas and suggestions. There is a social media block a bit higher up on this page with my various social (and unsocial) media handles, one of which also includes my email. Hit me up if you'd like me to make any improvements!
+
+ 
+
+ 
+
+*This website was generated in [RStudio](https://www.rstudio.com/categories/rstudio-ide/ "RStudio IDE") using [Quarto](https://quarto.org/ "Quarto"). It was heavily inspired by [this blog post](https://www.marvinschmitt.com/blog/website-tutorial-quarto/ "website tutorial") by Marvin Schmitt.*

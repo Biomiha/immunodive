@@ -1,0 +1,12 @@
+---
+layout: page
+title: About me
+---
+
+I was born in Slovenia many years ago (more than I am comfortable sharing here 😱). I finished my undergrad in Biochemistry in 2006 and then followed that with a PhD in Biomedical sciences (in 2011) looking at anti-infliximab antibodies in kids and young adults with rheumatic diseases receiving infliximab treatment.
+
+That gave me a good basic understanding of antibodies, which proved really useful when I joined a Cambridge-based antibody discovery company called Kymab in 2012. Looking back at my time at [Kymab](https://www.kymab.com/ "Kymab, a Sanofi company") it was an exceptional experience and we also had a lot of fun. I was really lucky to land this as my first proper job as I got to do so many different things - platform development, high throughput screening, *in vitro* and *in vivo* pharmacology, computational biology, and even translational and biomarker studies for assets in clinical trials. Kymab [was acquired](https://www.kymab.com/about-us/our-history/ "Kymab history") by the French pharma company Sanofi in 2021 and some of my friends (they have become much more than just work colleagues) still work there.
+
+I joined [Achilles therapeutics](https://achillestx.com/ "Achillestx"), a London-based cell therapy in 2021, where I am Head of Translational Science Product Phenotyping. I have an amazing team working with me and being at the cutting edge of cancer immunotherapy is incredibly exciting.
+
+In my free time I like to travel with my wonderful girlfriend Špela and when I am in Cambridge I spend most weekends on a road bike spinning those pedals and chatting to interesting people.

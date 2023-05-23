@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Projects",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About this site",
+    "section": "",
+    "text": "My name is Miha Kosmac. Since my university days I have been fascinated by immunology, an enthusiasm that I have since turned into a career.\nThis website was set up for me to explore interesting papers from my field in greater detail and share those thoughts with likeminded readers. I provide a brief explanation behind the thinking process below. It goes without saying, all content and opinions on this website are my own unless specifically stated otherwise.\n\n\n \n \n  \n   \n  \n    \n     Twitter\n  \n  \n    \n     Mastodon\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n \n \n\nWelcome to my immunology deep dive!\nThe motivation behind launching this website is a blend of self-interest and altruism. On the one hand, taking some time to examine the contents of an interesting paper helps me gain knowledge and learning new things is fun. On the other hand, in practice, most of us read papers all the time without really sharing our thoughts beyond the pages of a notebook or a reference manager tool. Putting my thoughts on a website takes a little extra effort but could potentially help a wider audience learn from the paper.\nThat being said, the authors themselves or other media outlets are becoming increasingly aware of the power of social media and it is not unusual these days to see an author’s tweetorial or other similar summary on a particular paper (a really nice recent example here) that helps clarify and promote a paper. Not wanting to plagiarise others’ work what value can I add to reviewing someone else’s paper, not being its author? Well, one thing we have all noticed is that due to papers in top tier journals these days being absolutely packed with data and journals still imposing word limits on papers, the section that usually gets the cull is the Materials and Methods section. So much so that it usually takes someone skilled in the art (a phrase commonly used in Intellectual Property) to even make sense of it. One of my main aims will be to explain in plain terms not only what was done but also why and how because I often feel that those are things I would most need myself when reading a paper. Immunology being an extremely broad and complicated area I will obviously not be able to do this on every topic but I will try to keep it wide-ranging to also learn more myself.\nFinally, I invite anyone reading this blog to drop me an email with ideas and suggestions. There is a social media block a bit higher up on this page with my various social (and unsocial) media handles, one of which also includes my email. Hit me up if you’d like me to make any improvements!\n \n \nThis website was generated in RStudio using Quarto. It was heavily inspired by this blog post by Marvin Schmitt."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "archive/index.html",
+    "href": "archive/index.html",
+    "title": "About this site",
+    "section": "",
+    "text": "Nothing to see here\n\nImage created by DALL·E 2"
+  },
+  {
+    "objectID": "me/index.html",
+    "href": "me/index.html",
+    "title": "About me",
+    "section": "",
+    "text": "I was born in Slovenia many years ago (more than I am comfortable sharing here 😱). I finished my undergrad in Biochemistry in 2006 and then followed that with a PhD in Biomedical sciences (in 2011) looking at anti-infliximab antibodies in kids and young adults with rheumatic diseases receiving infliximab treatment.\nThat gave me a good basic understanding of antibodies, which proved really useful when I joined a Cambridge-based antibody discovery company called Kymab in 2012. Looking back at my time at Kymab it was an exceptional experience and we also had a lot of fun. I was really lucky to land this as my first proper job as I got to do so many different things - platform development, high throughput screening, in vitro and in vivo pharmacology, computational biology, and even translational and biomarker studies for assets in clinical trials. Kymab was acquired by the French pharma company Sanofi in 2021 and some of my friends (they have become much more than just work colleagues) still work there.\nI joined Achilles therapeutics, a London-based cell therapy in 2021, where I am Head of Translational Science Product Phenotyping. I have an amazing team working with me and being at the cutting edge of cancer immunotherapy is incredibly exciting.\nIn my free time I like to travel with my wonderful girlfriend Špela and when I am in Cambridge I spend most weekends on a road bike spinning those pedals and chatting to interesting people."
+  },
+  {
+    "objectID": "glossary/index.html",
+    "href": "glossary/index.html",
+    "title": "Glossary of terms",
+    "section": "",
+    "text": "Skilled in the art: The phrase “skilled in the art” is often used in the context of patents and intellectual property. It refers to a person who has expertise or practical experience in a particular field or technology. This person is presumed to possess a level of knowledge and skill that is typical for professionals working in that area and is important for patent prosecution because a patent needs to be novel or non-obvious to a person skilled in the art as well as being described in enough detail (so called enablement) to enable a skilled person to reproduce the findings."
+  },
+  {
+    "objectID": "glossary/index.html#the-history-of-the-war-of-the-ring",
+    "href": "glossary/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Glossary of terms",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+  }
+]
